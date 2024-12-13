@@ -1,0 +1,13 @@
+flask
+os
+werkzeug.utils 
+re
+cv2
+numpy 
+pdf2image 
+pytesseract
+fitz
+json
+pandas
+gunicorn
+waitress
